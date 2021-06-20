@@ -10,7 +10,7 @@ The framework source code can be found here: [cakephp/cakephp](https://github.co
 
 ## Installation
 
-1. https://onlinewebtutorblog.com/cakephp-4-crud-using-ajax-requests-tutorial/
+1. https://onlinewebtutorblog.com/cakephp-4-crud-using-ajax-requests-tutorial/ credits
 
 1. Download [Composer](https://getcomposer.org/doc/00-intro.md) or update `composer self-update`.
 2. Run `php composer.phar create-project --prefer-dist cakephp/app [app_name]`.
